@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
